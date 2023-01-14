@@ -1,0 +1,4 @@
+Nagarji;nag@pilani.bits-pilani.ac.in;9876543210;nag123;nag1234;VK;225.0
+Gulabji;gul@pilani.bits-pilani.ac.in;9876543210;gulab123;gul123;VY;0
+Ramesh;ramesh@pilani.bits-pilani.ac.in;9876542110;ramesh123_bits;ram123;SR;300.0
+paren;paren@pilani.bits-pilani.ac.in;87645316783;par123;123;Pr;45.0

@@ -1,0 +1,14 @@
+
+Ramji;1@pilani.bits-pilani.ac.in;1;1;1;Ram;0
+nagarji;nag@pilani.bits-pilani.ac.in;2;2;2;VK;0
+Dhyey;dhyey@pilani.bits-pilani.ac.in;1;1;1;0
+gulabji;F@pilani.bits-pilani.ac.in;39402901391;12345;12345;Budh;0
+Nagarji;nag123@pilani.bits-pilani.ac.in;9898765432;nag123;nag1234;VK;0
+Ramji;ram@pilani.bits-pilani.ac.in;9889764568;ram123;12345;Ram;0
+Nagarji;nag@pilani.bits-pilani.ac.in;9876543210;nag123;nag1234;VK;0
+Gulabji;gul@pilani.bits-pilani.ac.in;9876543210;gulab123;gul123;VY;0
+Dhyey;f20211463@pilani.bits-pilani.ac.in;6353734576;2021A7PS1463P;Dhyey1234;0
+Ramesh;ramesh@pilani.bits-pilani.ac.in;9876542110;ramesh123_bits;ram123;SR;0
+Dhyey;dhy@pilani.bits-pilani.ac.in;6353734576;20211463;Dhyey1234;0
+paren;paren@pilani.bits-pilani.ac.in;87645316783;par123;123;Pr;0
+Divit;20221453@pilani.bits-pilani.ac.in;8765432109;2022A7PS1453P;div123;0

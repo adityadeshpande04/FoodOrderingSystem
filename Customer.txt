@@ -1,0 +1,3 @@
+Dhyey;f20211463@pilani.bits-pilani.ac.in;6353734576;2021A7PS1463P;Dhyey1234;150.0
+Dhyey;dhy@pilani.bits-pilani.ac.in;6353734576;20211463;Dhyey1234;300.0
+Divit;20221453@pilani.bits-pilani.ac.in;8765432109;2022A7PS1453P;div123;120.0

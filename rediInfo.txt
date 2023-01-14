@@ -1,0 +1,4 @@
+VK;VKMenu.txt
+VY;VYMenu.txt
+SR;SRMenu.txt
+Pr;PrMenu.txt
